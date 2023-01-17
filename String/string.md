@@ -1,7 +1,7 @@
     #   ethod --------------------------------- Description
-#capitalize()    -	Converts the first character to upper case
-#casefold()	    -   Converts string into lower case
-#center()	    -   Returns a centered string
+    #   capitalize()    -	Converts the first character to upper case
+    #   casefold()	    -   Converts string into lower case
+    #   center()	    -   Returns a centered string
 #count()	        -   Returns the number of times a specified value occurs in a string
 #encode()	    -   Returns an encoded version of the string
 #endswith()	    -   Returns true if the string ends with the specified value
