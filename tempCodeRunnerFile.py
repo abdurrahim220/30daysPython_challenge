@@ -1,5 +1,10 @@
-a = float(x)
+# print(10>9)
+# print(10 == 9)
+# print(10<9)
 
-# b = int(y)
-
-# c = complex(x)
+# a = 200
+# b = 33
+# if a>b:
+#     print("b is greater than a")
+# else:
+#     print("b is not greater than a")
