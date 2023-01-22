@@ -1,5 +1,5 @@
 ##  Python Conditions and If statements
-        --Python supports the usual logical conditions from mathematics:
+        Python supports the usual logical conditions from mathematics:
 
 - Equals: a == b
 - Not Equals: a != b
@@ -10,7 +10,7 @@
 
 ##  These conditions can be used in several ways, most commonly in "if statements" and loops.
 
-    --An "if statement" is written by using the if keyword.
+    An "if statement" is written by using the if keyword.
 
 ## Indentation
     Python relies on indentation (whitespace at the beginning of a line) to define scope in the code
@@ -18,11 +18,9 @@
 ## This technique is known as Ternary Operators, or Conditional Expressions.
 
 # Python Loops
-    -- Python has two primitive loops
-- while loops 
-    -- it can execute a set of statements as long as a condition is true.
-- for loops 
- --
+     Python has two primitive loops
+- while loops -- it can execute a set of statements as long as a condition is true.
+- for loops --
 
 
  
