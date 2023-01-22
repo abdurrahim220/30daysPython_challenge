@@ -10,15 +10,15 @@
 
 ##  These conditions can be used in several ways, most commonly in "if statements" and loops.
 
- --  An "if statement" is written by using the if keyword.
+    --An "if statement" is written by using the if keyword.
 
 ## Indentation
-- Python relies on indentation (whitespace at the beginning of a line) to define scope in the code
+    Python relies on indentation (whitespace at the beginning of a line) to define scope in the code
 
 ## This technique is known as Ternary Operators, or Conditional Expressions.
 
 # Python Loops
- -- Python has two primitive loops
+    -- Python has two primitive loops
 - while loops 
     -- it can execute a set of statements as long as a condition is true.
 - for loops 
